@@ -1,0 +1,8 @@
+{
+  "scroll-sepolia": {
+    "KimiToken": {
+      "address": "0x437e05E34AA72700773DDA2dd97cc64a1Deb2A93",
+      "startBlock": 6811899
+    }
+  }
+}
