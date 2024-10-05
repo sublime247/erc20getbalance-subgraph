@@ -22,8 +22,6 @@ dataSources:
         - name: KimiToken
           file: ./abis/KimiToken.json
       eventHandlers:
-        - event: Approval(indexed address,indexed address,uint256)
-          handler: handleApproval
         - event: Transfer(indexed address,indexed address,uint256)
           handler: handleTransfer
       file: ./src/kimi-token.ts
